@@ -31,14 +31,14 @@ xkb_symbols "xmacs" {
     key <AD12> {	[ bracketright,	braceright	]	};
 
     key <AC01> {	[	  a,	A 		]	};
-    key <AC02> {	[	  p,	P		]	};
-    key <AC03> {	[	  f,	F		]	};
+    key <AC02> {	[	  b,	B		]	};
+    key <AC03> {	[	  p,	P		]	};
     key <AC04> {	[	  s,	S		]	};
     key <AC05> {	[	  g,	G		]	};
     key <AC06> {	[	  d,	D		]	};
     key <AC07> {	[	  n,	N		]	};
-    key <AC08> {	[	  e,	E		]	};
-    key <AC09> {	[	  b,	B		]	};
+    key <AC08> {	[	  f,	F		]	};
+    key <AC09> {	[	  e,	E		]	};
     key <AC10> {	[         o,	O		]	};
     key <AC11> {	[ apostrophe,	quotedbl	]	};
 
